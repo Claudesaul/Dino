@@ -1,1 +1,1 @@
-# Week 12 Dev Friday: Kaggle Competition - Flood Probability Prediction
+# Week 12 Dev Friday: Kaggle Competition - Poisonous Mushrooms Prediction
